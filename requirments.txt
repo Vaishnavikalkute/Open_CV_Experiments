@@ -1,3 +1,4 @@
 opencv-python
 cvzone==1.5.3
 mediapip
+pycryptodome
